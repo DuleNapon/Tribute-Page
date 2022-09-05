@@ -1,0 +1,39 @@
+#title {
+    text-align: center;
+    background: gray;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  body {
+    background: white;
+  }
+  #main{
+   text-align: center;
+   background: green;
+   border-radius: 20px;
+   margin: 20px;
+   background: linear-gradient(0deg, white, gray);
+  }
+  #image {
+   max-width: 100%;
+   display: block;
+   height: auto;
+   margin: auto;
+   border-radius: 20px;
+  }
+  
+  #img-div {
+    margin: auto;
+    width: 525px;
+    text-align: center;
+    padding: 20px;
+  }
+  ul {
+    list-style: inside;
+    margin:50px;
+  }
+  
+  li {
+    margin: 20px;
+  }
